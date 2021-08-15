@@ -1,0 +1,19 @@
+# jemdoc: menu{MENU}{awards.html}
+= Weijia Yao -- Selected Awards & Honors \n
+
+~~~
+{}{table}{AWARD_TBL}
+Time          | Award & Honors           				 ||
+2021          | 2021 ICRA Best Conference Paper Award Finalist	 ||
+2019 & 2020    | IEEE CSS Student Travel Support of CDC		 ||
+2020          | Outstanding Master Degree Dissertation award of Hunan province, China ||
+2019          | Champion of International RoboCup Middle Size League Technical Challenge  ||
+2016          | Champion of China RoboCup Middle Size League Scientific Challenge  ||
+2016          | Guanghua Scholarship, China  ||
+2014 & 2015    | Honorable Mention of the Mathematical Contest in Modeling (MCM)  
+~~~
+
+~~~
+{}{img_left}{Figs/ICRAaward.png}{Weijia Yao}{438px}{310px}{}  
+*2021 ICRA Best Conference Paper Award Finalist*
+~~~ 
