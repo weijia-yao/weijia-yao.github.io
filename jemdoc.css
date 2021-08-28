@@ -8,7 +8,7 @@ table#tlayout {
 
 #AWARD_TBL tr.r1 {font-weight: bold;}
 #AWARD_TBL tr:nth-child(even) {background-color: #f2f2f2;}
-#AWARD_TBL {text-align: left; border: 1px solid gray;}
+#AWARD_TBL tr {text-align: left; border: 1px solid gray;}
 
 body {
 	background: white;
