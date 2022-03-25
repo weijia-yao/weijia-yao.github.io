@@ -6,7 +6,7 @@ Discrete Technology and Production Automation (DTPA), University of Groningen \n
 [https://orcid.org/0000-0003-0361-6620 \[ORCID\]]
 
 == Preprints
-. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/The domain of attraction of the desired path in vector-field guided path following/," /Submitted/,  2021.
+. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/The domain of attraction of the desired path in vector-field guided path following/," /Under review/,  2021.
 . *W. Yao*, H. G. de Marina, Z. Sun and M. Cao, "/Guiding vector fields for multi-robot coordinated navigation/," /Under review/,  2021.
 # . B. Hu, *W. Yao*, M. Cao and H. Zhang, "/Ordering-Free Platooning Path Following Using Guiding Vector Field/," /To be submitted/, 2021.
 # . B. Lin, *W. Yao* and M. Cao, "/On Wilson's theorem about domains of attraction and tubular neighborhoods/," /To be submitted/,  2021.
@@ -14,8 +14,8 @@ Discrete Technology and Production Automation (DTPA), University of Groningen \n
 
 
 == Journals
-. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Guiding Vector Fields for Following Occluded Paths/," /Under review/, /IEEE Transactions on Automatic Control (TAC)/, /Conditionally accepted/,  2021.
-. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Topological Analysis of Vector-Field Guided Path Following on Manifolds/," /IEEE Transactions on Automatic Control (TAC)/, /Conditionally accepted/,  2021.
+. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Topological Analysis of Vector-Field Guided Path Following on Manifolds/," /IEEE Transactions on Automatic Control (TAC)/, 2022.
+. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Guiding Vector Fields for Following Occluded Paths/," /IEEE Transactions on Automatic Control (TAC)/, /Conditionally accepted/,  2021.
 . *W. Yao*, H. G. de Marina, B. Lin and M. Cao, "/Singularity-free guiding vector field for robot navigation/," /IEEE Transactions on Robotics (TRO)/, pp. 1206--1221, vol. 37, no. 4,  2021, [https://doi.org/10.1109/TRO.2020.3043690 \[PDF\]][https://www.youtube.com/watch?v=mvO16koLmTQ \[Video\]][https://github.com/noether/paparazzi/tree/gvf_advanced/sw/airborne/modules/guidance/gvf_parametric \[Code\]].
 . *W. Yao* and M. Cao, "/Path following control in {3D} using a vector field/," /Automatica/, pp. 108957, vol. 117,  2020, [ttps://doi.org/10.1016/j.automatica.2020.108957 \[PDF\]]
 . L. Gong, *W. Yao*, J. Gao and M. Cao, "/Limit Cycles Analysis and Control of Evolutionary Game Dynamics with Environmental Feedback/," /Provisionally accepted/,  2020.
