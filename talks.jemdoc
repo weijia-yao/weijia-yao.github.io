@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{talks.html}
+
+~~~
+{}{img_left}{Figs/weijia_yao_500x400_color.jpg}{Weijia Yao}{160px}{200px}{}  
+*Dr. Weijia Yao* \n
+[weijia.yao.new@outlook.com \[e-mail\]] [https://twitter.com/yao_weijia \[twitter\]] [https://www.linkedin.com/in/weijia-yao-93a4a114b/ \[linkedin\]] [https://scholar.google.com/citations?user=MDDx3Q4AAAAJ&hl=en \[scholar\]] [https://github.com/weijia-yao \[github\]]   \n
+Researcher, [https://www.rug.nl/staff/w.yao/research Discrete Technology & Production Automation (DTPA), University of Groningen] 
+\n
+Member of [http://www.math.rug.nl/gcsc/ Jan C. Willems Center for Systems and Control] \n
+~~~ 
+
+
+== Talks
+- 2022. "/Guiding vector fields for robot motion control/," virtually for the [https://r8.ieee.org/poland-ras/event/guiding-vector-fields-for-robot-motion-control/ Polish Chapter of IEEE Robotics & Automation Society], invited by the Chair Professor Maciej Marcin Michalek.
+- 2022. "/Guiding vector fields for robot motion control/," virtually at [https://erf2022.eu/ European Robotics Forum] PhD Award session [slides/erf.pdf \[Slides\]].
+- 2022. "/Guiding vector fields for robot motion control/," virtually at Peking University, invited by Professor Zhongkui Li.
+- 2021. "/Guiding vector fields for robot motion control/," in Groningen-Lyon seminar, invited by Professor Bayu Jayawardhana and Professor Vincent Andrieu.
+- 2021. "/Refining dichotomy convergence in vector-field guided path following control/," in /European Control Conference (ECC)/,  [slides/ecc21.pdf \[Slides\]]
+- 2021. "/Distributed coordinated path following using guiding vector fields/," in /IEEE International Conference on Robotics and Automation (ICRA)/, [slides/icra21talk_v16.pdf \[Slides\]][https://www.youtube.com/watch?v=dmkECQaXFoI \[Talk\]]
+- 2020. "/Vector field guided path following control: Singularity elimination and global convergence/," in /2020 59th IEEE Conference on Decision and Control (CDC)/, [slides/cdc20.pdf \[Slides\]][https://www.youtube.com/watch?v=LfXCNdyBaTs&t=85s \[Video\]]
+- 2020. "/Mobile Robot Path Following Control: Singularity Elimination/," in /39th Benelux Meeting on Systems and Control/,  [slides/benelux20.pdf \[Slides\]]
+- 2019. "/Integrated Path Following and Collision Avoidance Using a Composite Vector Field/," in /2019 IEEE 58th Conference on Decision and Control (CDC)/, [slides/cdc19.pdf \[Slides\]][https://www.youtube.com/watch?v=ddoZCiAnH-Q \[Video\]]
+- 2019. "/High-Dimensional Vector Field for Path Following/," in /38th Benelux Meeting on Systems and Control/, [slides/benelux19.pdf \[Slides\]]
+- 2018. "/Robotic Path Following in 3D Using a Guiding Vector Field/," in /2018 57th IEEE Conference on Decision and Control (CDC)/, [slides/cdc18.pdf \[Slides\]]
+- 2018. "/3D path-following using a guiding vector field/," in /37th Benelux meeting on Systems and Control/.
+- 2018, "/Distributed circumnavigation control with dynamic spacing for a heterogeneous multi-robot system/," in /2018 Robot World Cup Symposium/.
+- 2017. "/Distributed encirclement control with arbitrary spacing for multiple anonymous mobile robots/," in /2017 36th Chinese Control Conference (CCC)/.
+- 2015. "/A simulation system based on ros and gazebo for robocup middle size league/," in /2015 IEEE international conference on robotics and biomimetics (ROBIO)/.

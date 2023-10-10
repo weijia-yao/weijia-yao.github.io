@@ -1,11 +1,13 @@
 # jemdoc: menu{MENU}{awards.html}
 = Dr. Weijia Yao -- Selected Awards & Honors \n
+Discrete Technology and Production Automation (DTPA), University of Groningen \n
 
 ~~~
 {}{table}{AWARD_TBL}
 Time          | Award & Honors           				 ||
-# 2022	      | Finalist for the euRobotics George Giralt PhD award      ||
-2021          | ICRA Best Conference Paper Award Finalist	 ||
+2023          | European Systems & Control PhD Thesis Award (Finalist) ||
+2022	      | euRobotics George Giralt PhD award (Finalist)      ||
+2021          | ICRA Best Conference Paper Award (Finalist)	 ||
 2021          | Excellent Reviewer for  Journal of Guidance, Control, and Dynamics (JGCD)	 ||
 2019 & 2020    | IEEE CSS Student Travel Support of CDC		 ||
 2020          | Outstanding Master Degree Dissertation award of Hunan province, China ||
@@ -19,6 +21,15 @@ Time          | Award & Honors           				 ||
 ~~~
 
 ~~~
-{}{img_left}{Figs/ICRAaward.png}{Weijia Yao}{569px}{403px}{}  
+{}{img_left}{Figs/ICRAaward.png}{Weijia Yao}{550px}{403px}{}    
 *2021 ICRA Best Conference Paper Award Finalist*
 ~~~ 
+
+~~~
+{}{img_left}{Figs/euRobotics.png}{Weijia Yao}{550px}{403px}{}  
+*2022 euRobotics George Giralt PhD Award Finalist*
+~~~ 
+
+
+
+
