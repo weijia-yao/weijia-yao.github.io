@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{publications.html}
 = Dr. Weijia Yao - Publications \n
-Discrete Technology and Production Automation (DTPA), University of Groningen \n
+School of Robotics, Hunan University, China \n
 [https://scholar.google.com/citations?user=MDDx3Q4AAAAJ&hl=en \[Google Scholar\]]
 [https://www.semanticscholar.org/author/Weijia-Yao/3383345 \[Semantic Scholar\]]
 [https://orcid.org/0000-0003-0361-6620 \[ORCID\]]
@@ -50,10 +50,10 @@ Discrete Technology and Production Automation (DTPA), University of Groningen \n
 . A. Acuaviva, J. Bautista, *W. Yao*, J. Jimenez, H. G. de Marina, "/Resilient source seeking with robot swarms/," 2023, [https://arxiv.org/pdf/2309.02937 \[PDF\]].
 . Y. Lu, *W. Yao*, X. Zhang, Y. Xiao, X. Xu, "/Guiding-based Nonlinear Learning Predictive Control for Mobile Robots with Safety Guarantees/," 2023.
 
-== Conference Abstracts
-. *W. Yao* and M. Cao, "/Mobile Robot Path Following Control: Singularity Elimination/," in /39th Benelux Meeting on Systems and Control/,  2020.
-. *W. Yao*, Y. Kapitaniuk and M. Cao, "/High-Dimensional Vector Field for Path Following/," in /38th Benelux Meeting on Systems and Control/,  2019.
-. *W. Yao*, I. Kapitaniuk and M. Cao, "/3D path-following using a guiding vector field/," in /37th Benelux meeting on Systems and Control/, 2018.
+#== Conference Abstracts
+#. *W. Yao* and M. Cao, "/Mobile Robot Path Following Control: Singularity Elimination/," in /39th Benelux Meeting on Systems and Control/,  2020.
+#. *W. Yao*, Y. Kapitaniuk and M. Cao, "/High-Dimensional Vector Field for Path Following/," in /38th Benelux Meeting on Systems and Control/,  2019.
+#. *W. Yao*, I. Kapitaniuk and M. Cao, "/3D path-following using a guiding vector field/," in /37th Benelux meeting on Systems and Control/, 2018.
 
 
 
