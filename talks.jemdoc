@@ -1,9 +1,11 @@
 # jemdoc: menu{MENU}{talks.html}
-= Dr. Weijia Yao -- Selected Talks \n
+= Prof. Weijia Yao -- Selected Talks \n
 # School of Robotics, Hunan University, China \n
 
 
 == Talks
+- 2024. "/Multi-robot distributed motion coordination and source seeking/," invited by Dr. Sihang Qiu.
+- 2024. "/Multi-robot distributed coordinated motion control/," invited by Dr. Qi Wang.
 - 2022. "/Guiding vector fields for robot motion control/," virtually for the [https://r8.ieee.org/poland-ras/event/guiding-vector-fields-for-robot-motion-control/ Polish Chapter of IEEE Robotics & Automation Society], invited by the Chair Professor Maciej Marcin Michalek.
 - 2022. "/Guiding vector fields for robot motion control/," virtually at [https://erf2022.eu/ European Robotics Forum] PhD Award session [slides/erf.pdf \[Slides\]].
 - 2022. "/Guiding vector fields for robot motion control/," virtually at Peking University, invited by Professor Zhongkui Li.
