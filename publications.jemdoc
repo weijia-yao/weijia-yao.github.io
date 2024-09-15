@@ -10,7 +10,7 @@
 
 == Journals
 . B. Hu, H. Zhang, *W. Yao*, Z. Sun and M. Cao, “/Coordinated Guiding Vector Field Design for Ordering-Flexible Multi-Robot Surface Navigation/,” /IEEE Transactions on Automatic Control (*TAC*)/, 2024, [http://www.doi.org/10.1109/TAC.2024.3355321 \[PDF\]] 
-. B. Hu, *W. Yao*, H. Wei C. Lv, "/FSOC: Flexible Subgrouping and Ordering of Multi-Robot Coordination for Convoying Multiple Scattered Targets/," /IEEE Transactions on Control of Network Systems (TCNS)/, 2024. [https://ieeexplore.ieee.org/document/10508437 \[PDF\]]
+. B. Hu, *W. Yao*, H. Wei C. Lv, "/FSOC: Flexible Subgrouping and Ordering of Multi-Robot Coordination for Convoying Multiple Scattered Targets/," /IEEE Transactions on Control of Network Systems (*TCNS*)/, 2024. [https://ieeexplore.ieee.org/document/10508437 \[PDF\]]
 . Y. Lu, X. Zhang, X. Xu, *W. Yao*, "/Learning-based Near-optimal Motion Planning for Intelligent Vehicles with Uncertain Dynamics/," /IEEE Robotics \& Automation Letter (*RAL*)/, 2023, [https://www.doi.org/10.1109/LRA.2023.3322085 \[PDF\]]
 . B. Hu, H. Zhang, *W. Yao*, J. Ding and M. Cao, "/Spontaneous-Ordering Platoon Control for Multirobot Path Navigation Using Guiding Vector Fields/," /IEEE Transactions on Robotics (*TRO*)/, 2023, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10113481 \[PDF\]]
 . *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/The domain of attraction of the desired path in vector-field guided path following/," /IEEE Transactions on Automatic Control (*TAC*)/, 2023, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10025361 \[PDF\]].
@@ -27,6 +27,7 @@
 . *W. Yao*, H. Lu, Z. Zeng, J. Xiao and Z. Zheng, "/Distributed static and dynamic circumnavigation control with arbitrary spacings for a heterogeneous multi-robot system/," /Journal of Intelligent & Robotic Systems (*JINT*)/, pp. 883--905, vol. 94, no. 3,  2019, [https://doi.org/10.1007/s10846-018-0906-5 \[PDF\]].
 
 == Conferences
+. A. Acuaviva, J. Bautista, *W. Yao*, J. Jimenez, H. G. de Marina, "/Resilient source seeking with robot swarms/," in /2024 IEEE Conference on Decision and Control (CDC)/, 2024,  [https://arxiv.org/pdf/2309.02937 \[PDF\]].
 . I. Gushkov, A. Orucevic, K. Y. Pettersen, *W. Yao*, J. T. Gravdahi, "/Vector Field Path Following of Static Sinusoidal Paths for Underwater Snake Robots/," in /IEEE Conference on Control Technology and Applications (CCTA)/, 2023, [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10252704 \[PDF\]].
 . *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Refining dichotomy convergence in vector-field guided path following control/," in /European Control Conference (ECC)/,  2021, [https://pure.rug.nl/ws/portalfiles/portal/172191292/refine_dicho_v9.pdf \[PDF\]][slides/ecc21.pdf \[Slides\]].
 . *W. Yao*, H. G. de Marina, Z. Sun and M. Cao, "/Distributed coordinated path following using guiding vector fields/," in /IEEE International Conference on Robotics and Automation (ICRA)/, 2021, *Best Conference Paper Award Finalist* [https://arxiv.org/abs/2103.12372 \[PDF\]][slides/icra21talk_v16.pdf \[Slides\]][https://www.youtube.com/watch?v=dmkECQaXFoI \[Talk\]].
@@ -49,8 +50,9 @@
 . *W. Yao*, "/Guiding vector fields for robot motion control/," University of Groningen, 2021, [https://doi.org/10.33612/diss.181475662 \[PDF\]][https://doi.org/10.1007/978-3-031-29152-4 \[Springer\]].
 
 == Preprints
-. A. Acuaviva, J. Bautista, *W. Yao*, J. Jimenez, H. G. de Marina, "/Resilient source seeking with robot swarms/," 2023, [https://arxiv.org/pdf/2309.02937 \[PDF\]].
-. Y. Lu, *W. Yao*, X. Zhang, Y. Xiao, X. Xu, "/Guiding-based Nonlinear Learning Predictive Control for Mobile Robots with Safety Guarantees/," 2023.
+. P.  Zhu, Z. Zeng, *W. Yao*, W. Dai, H. Lu, Z. Zhou, "/DVRP-MHSI: Dynamic Visualization Research Platform for Multimodal Human-Swarm Interaction/", 2024, [https://arxiv.org/abs/2408.10861 \[PDF\]]
+. Y. Lu, *W. Yao*, Y. Xiao, X. Zhang, X. Xu, Y. Wang, D. Xiao, "/Vector Field-Guided Learning Predictive Control for Motion Planning of Mobile Robots with Unknown Dynamics/," 2024, [https://arxiv.org/abs/2405.08283 \[PDF\]].
+. X. He, *W. Yao*, Z. Sun, Z. Li, "/A Novel Vector-Field-Based Motion Planning Algorithm for 3D Nonholonomic Robots/", 2023, [https://arxiv.org/abs/2302.11110 \[PDF\]].
 
 #== Conference Abstracts
 #. *W. Yao* and M. Cao, "/Mobile Robot Path Following Control: Singularity Elimination/," in /39th Benelux Meeting on Systems and Control/,  2020.
